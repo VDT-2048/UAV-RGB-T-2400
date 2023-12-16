@@ -10,14 +10,23 @@ The specific construction process of the dataset is shown in Fig. (c). First, th
 ![Acquisition Location](https://github.com/VDT-2048/UAV-RGB-T-2400/assets/101933818/6dbd8c9a-06fd-4d50-b7e8-95983dbb261a)
 
 
+# Download Dataset
+
+The dataset is available at：https://pan.baidu.com/s/1dsQP-i1H7X1OGw0UxBjnEg?pwd=ifyh
 
 # Challenging Scenes
 In real life, UAVs are often used in various industries, and the working environment is complicated. To conform to the actual situation as much as possible, the UAV RGB-T 2400 dataset contains five categories of challenges and twenty-one
 sub-categories, as shown in Fig. (a). The five main challenges include variable illumination, variable object, object blur, variable weather, and object occlusion. First, we collect images of different real-life illumination scenes, including illumination intensities and sources. There are several sub-categories of illumination challenges: low illumination (LI), extreme low illumination (ELI), street light exposure (SLE), UAV light exposure (ULE), shadow interference (SI), sunlight exposure (SE), and exposure interference (EI). The detection objects of UAVs vary, and the positions of objects in the image are also different. Therefore, the object challenges in our dataset mainly include the following five sub-categories: small salient object (SSO), multiple salient objects (MSO), center bias (CB), outof-view (OV), and scale variation (SV). In addition, in the process of UAV detection, the UAV may fly fast, or the object may move quickly, resulting in blurred images. So the object blur challenges mainly include the following two subcategories: fast object movement (FOM) and fast UAV movement (FVM). Weather changes are unavoidable during UAV detection, so we also collect some weather challenges: rain (R), snow (S), and fog (F). It’s worth noting that we simulate foggy days with artificial smoke. Finally, object occlusion is also one of the common challenges of UAV detection. Here we have collected four object occlusion challenges: tree occlusion (TO), plastic occlusion (PO), umbrella occlusion (UO), and glass occlusion (GO).
+We conduct tests in these challenging scenes and conduct comparative experiments. 
+The testing datasets divided by challenging scenes is available at: Test Data(challenge)
 
 ![Challenging Scenes](https://github.com/VDT-2048/UAV-RGB-T-2400/assets/101933818/eae6a763-6c47-4785-95d0-f52643bfd023)
 
 
-# Download Dataset
+# Saliency Maps of All Compared Methods
+The saliency maps of all compared methods on the UAV RGB-T 2400 testing dataset are provided at: Saliency maps (Comparison experiment) https://pan.baidu.com/s/1dsQP-i1H7X1OGw0UxBjnEg?pwd=ifyh
 
-The dataset is available at：https://pan.baidu.com/s/1dsQP-i1H7X1OGw0UxBjnEg?pwd=ifyh
+The test results and comparative experimental results on these challenging scenes are provided at: saliency maps (Challenge comparison) https://pan.baidu.com/s/1dsQP-i1H7X1OGw0UxBjnEg?pwd=ifyh
+
+# Evalution Toolbox
+The evalution toolbox is provided by https://github.com/jiwei0921/Saliency-Evaluation-Toolbox
