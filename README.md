@@ -32,3 +32,6 @@ The test results and comparative experimental results on these challenging scene
 
 # Evalution Toolbox
 The evalution toolbox is provided by https://github.com/jiwei0921/Saliency-Evaluation-Toolbox
+
+# Related Survey
+RGB-T Image Analysis Technology and Application: A Survey [J]. Engineering Applications of Artificial Intelligence, 2023, 120, 105919. https://www.sciencedirect.com/science/article/abs/pii/S0952197623001033
