@@ -40,6 +40,8 @@ https://github.com/VDT-2048/DVTOD
 https://ieeexplore.ieee.org/document/10522939
 
 # Related Survey
-RGB-T Image Analysis Technology and Application: A Survey [J]. Engineering Applications of Artificial Intelligence, 2023, 120, 105919. https://www.sciencedirect.com/science/article/abs/pii/S0952197623001033
+RGB-T Image Analysis Technology and Application: A Survey [J]. Engineering Applications of Artificial Intelligence, 2023, 120, 105919. 
+https://www.sciencedirect.com/science/article/abs/pii/S0952197623001033
+
 [2023-RGB-T Image Analysis Technology and Application A Survey.pdf](https://github.com/VDT-2048/UAV-RGB-T-2400/files/15362223/2023-RGB-T.Image.Analysis.Technology.and.Application.A.Survey.pdf)
 
